@@ -1,1 +1,0 @@
-# edgeofit Blog Repo
