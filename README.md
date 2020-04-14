@@ -1,1 +1,1 @@
-# edgeofit.github.io
+# edgeofit Blog Repo
