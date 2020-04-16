@@ -2,8 +2,14 @@
 layout: default
 title: Edge of IT
 ---
-<div class="content">
-	<h1>Edge of IT Testsite</h1>
-	<p>Here is the edgeofit.de Github Test page</p>
-</div><!-- /.content -->
+<h1>Latest Posts</h1>
+
+<ul>
+	{% for post in site.posts %}
+	<li>
+		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		{{ post.excerpt }}
+	</li>
+	{% endfor %}
+</ul>
 
