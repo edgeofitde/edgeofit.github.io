@@ -1,4 +1,6 @@
-name: Edge of IT
+title:  Edge of IT
+description: Cloud Identity and Workplace
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
