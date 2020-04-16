@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://edgeofitde.github.io/blog</id>
 	<author>
-		<name>EdgeofIT</name>
+		<name>Claus Schwemmlein</name>
 		<email>mail@edgeofit.de</email>
 	</author>
 
