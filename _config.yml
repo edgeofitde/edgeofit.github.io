@@ -4,4 +4,4 @@ description: Cloud Identity and Workplace
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: jekyll-theme-cayman
