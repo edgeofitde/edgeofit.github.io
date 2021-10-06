@@ -1,6 +1,11 @@
 title:  Edge of IT
 description: Cloud Identity and Workplace
 
+author:
+  name: John Doe
+  twitter: johndoetwitter
+  picture: /assets/images/johndoe.png
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
